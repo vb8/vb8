@@ -1,0 +1,25 @@
+﻿body {
+    color: blue;
+    background:#47ae4c;
+}
+
+
+div{
+
+}
+.privets{
+color: black;
+font-size: 30px;
+background: grey;
+}
+.containerwords {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 60px;
+  
+}
+.blockword {
+ 
+    margin:20px;
+}
